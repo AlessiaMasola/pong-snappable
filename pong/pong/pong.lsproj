@@ -1,0 +1,593 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1531159575967",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "5",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "5",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "LowerPaddle",
+                        "Materials"
+                    ],
+                    [
+                        "LowerPaddle",
+                        "Materials",
+                        "mat21"
+                    ],
+                    [
+                        "LowerPaddle",
+                        "Meshes"
+                    ],
+                    [
+                        "LowerPaddle",
+                        "Meshes",
+                        "mesh232349886"
+                    ],
+                    [
+                        "Scripts",
+                        "LowerPaddleStop"
+                    ],
+                    [
+                        "Scripts",
+                        "MoveLowerPaddleDown"
+                    ],
+                    [
+                        "Scripts",
+                        "MoveLowerPaddleUp"
+                    ],
+                    [
+                        "Scripts",
+                        "MoveUpperPaddleDown"
+                    ],
+                    [
+                        "Scripts",
+                        "MoveUpperPaddleUp"
+                    ],
+                    [
+                        "UpperPaddle",
+                        "Materials"
+                    ],
+                    [
+                        "UpperPaddle",
+                        "Materials",
+                        "mat21"
+                    ],
+                    [
+                        "UpperPaddle",
+                        "Meshes"
+                    ],
+                    [
+                        "UpperPaddle",
+                        "Meshes",
+                        "mesh232349886"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "model"
+                    ],
+                    [
+                        "model",
+                        "Materials"
+                    ],
+                    [
+                        "model",
+                        "Materials",
+                        "mat11"
+                    ],
+                    [
+                        "model",
+                        "Meshes"
+                    ],
+                    [
+                        "model",
+                        "Meshes",
+                        "mesh331715498"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2"
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1530819043264215:37537",
+                    "1530819054809052:38074"
+                ]
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1530812520957189:24280",
+                    "name": "\/Resources\/Resource10",
+                    "sourceFilePath": "\/Users\/alessiamasola\/Downloads\/model_obj_fKbvIyf0xwX_0RJqfOKZgrH\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat21"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1530812521067019:24291",
+                    "name": "\/Resources\/Resource12.mesh",
+                    "sourceFilePath": "\/Users\/alessiamasola\/Downloads\/model_obj_fKbvIyf0xwX_0RJqfOKZgrH\/model.obj",
+                    "additionalProperties": {
+                        "name": "mesh232349886"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1530813355940375:37164",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1530819043524132:37612",
+                    "name": "\/Resources\/Resource16.mesh",
+                    "sourceFilePath": "\/var\/folders\/mq\/vtp6kqkn0_93px62pww5_6_c0000gn\/T\/Lens Studio Partner-wpWwoE\/system\/defaults\/effects\/headbinding\/Occluder.mesh",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1530819043550725:37622",
+                    "name": "\/Resources\/Resource17",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1530819054862734:38120",
+                    "name": "\/Resources\/Resource18.mesh",
+                    "sourceFilePath": "\/var\/folders\/mq\/vtp6kqkn0_93px62pww5_6_c0000gn\/T\/Lens Studio Partner-wpWwoE\/system\/defaults\/effects\/headbinding\/Occluder.mesh",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1530819054893856:38130",
+                    "name": "\/Resources\/Resource19",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1530823586993891:2111793",
+                    "name": "\/Resources\/Resource20.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1530823603145558:2140294",
+                    "name": "\/Resources\/Resource21.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1530823615059639:2170029",
+                    "name": "\/Resources\/Resource22.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1530830024967528:5756580",
+                    "name": "\/Resources\/Resource25",
+                    "sourceFilePath": "\/Users\/alessiamasola\/Downloads\/model_obj_fKbvIyf0xwX_0RJqfOKZgrH\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat21"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1530830025018005:5756591",
+                    "name": "\/Resources\/Resource27.mesh",
+                    "sourceFilePath": "\/Users\/alessiamasola\/Downloads\/model_obj_fKbvIyf0xwX_0RJqfOKZgrH\/model.obj",
+                    "additionalProperties": {
+                        "name": "mesh232349886"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1531012653741672:27069",
+                    "name": "\/Resources\/Resource28",
+                    "sourceFilePath": "\/Users\/alessiamasola\/Downloads\/model_obj_4bpv5c8o0P1_6Pa5s6dY0kK\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat11"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1531012654014204:27080",
+                    "name": "\/Resources\/Resource30.mesh",
+                    "sourceFilePath": "\/Users\/alessiamasola\/Downloads\/model_obj_4bpv5c8o0P1_6Pa5s6dY0kK\/model.obj",
+                    "additionalProperties": {
+                        "name": "mesh331715498"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1531158978549130:155994",
+                    "name": "\/Resources\/Resource31.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1530812520954020:24278",
+                "4": "1530812521064257:24287",
+                "5": "1530819043247229:37532",
+                "6": "1530819043264215:37537",
+                "7": "1530819043311794:37571",
+                "8": "1530819054809052:38074",
+                "9": "1530819054829853:38104",
+                "10": "1530830024966174:5756578",
+                "11": "1530934971671629:90122",
+                "12": "1531012653739972:27067",
+                "13": "1531012654013864:27076"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "MoveLowerPaddleUp",
+                                "resourceId": "13",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "MoveLowerPaddleDown",
+                                "resourceId": "20",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "MoveUpperPaddleUp",
+                                "resourceId": "21",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "MoveUpperPaddleDown",
+                                "resourceId": "22",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "LowerPaddleStop",
+                                "resourceId": "31",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "LowerPaddle",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "mat21",
+                                        "resourceId": "10",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "mesh232349886",
+                                        "resourceId": "12",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "UpperPaddle",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "mat21",
+                                        "resourceId": "25",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "mesh232349886",
+                                        "resourceId": "27",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "model",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "mat11",
+                                        "resourceId": "28",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "mesh331715498",
+                                        "resourceId": "30",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "12",
+                    "path": "LowerPaddle\/Meshes\/mesh232349886.mesh"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/MoveLowerPaddleUp.js"
+                },
+                {
+                    "id": "20",
+                    "path": "Scripts\/MoveLowerPaddleDown.js"
+                },
+                {
+                    "id": "21",
+                    "path": "Scripts\/MoveUpperPaddleUp.js"
+                },
+                {
+                    "id": "22",
+                    "path": "Scripts\/MoveUpperPaddleDown.js"
+                },
+                {
+                    "id": "27",
+                    "path": "UpperPaddle\/Meshes\/mesh232349886.mesh"
+                },
+                {
+                    "id": "30",
+                    "path": "model\/Meshes\/mesh331715498.mesh"
+                },
+                {
+                    "id": "31",
+                    "path": "Scripts\/LowerPaddleStop.js"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1530934971671629:90122"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        }
+    }
+}
